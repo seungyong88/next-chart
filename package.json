@@ -14,10 +14,14 @@
   "license": "ISC",
   "dependencies": {
     "@nivo/bar": "^0.52.0",
+    "@nivo/calendar": "^0.73.0",
+    "@nivo/core": "^0.73.0",
     "@nivo/pie": "^0.73.0",
+    "@nivo/treemap": "^0.73.0",
     "express": "^4.16.4",
     "isomorphic-unfetch": "^3.0.0",
     "next": "^7.0.2",
+    "nivo": "^0.31.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-markdown": "^4.0.4"

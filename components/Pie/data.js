@@ -1,32 +1,32 @@
 export default [
   {
-    id: "css",
-    label: "css",
-    value: 313,
-    color: "hsl(174, 70%, 50%)"
-  },
-  {
-    id: "make",
-    label: "make",
-    value: 375,
-    color: "hsl(207, 70%, 50%)"
-  },
-  {
-    id: "hack",
-    label: "hack",
-    value: 327,
-    color: "hsl(115, 70%, 50%)"
-  },
-  {
-    id: "c",
-    label: "c",
-    value: 308,
-    color: "hsl(127, 70%, 50%)"
-  },
-  {
     id: "rust",
     label: "rust",
-    value: 257,
-    color: "hsl(164, 70%, 50%)"
+    value: 86,
+    color: "hsl(178, 70%, 50%)"
+  },
+  {
+    id: "haskell",
+    label: "haskell",
+    value: 288,
+    color: "hsl(299, 70%, 50%)"
+  },
+  {
+    id: "python",
+    label: "python",
+    value: 356,
+    color: "hsl(75, 70%, 50%)"
+  },
+  {
+    id: "css",
+    label: "css",
+    value: 529,
+    color: "hsl(72, 70%, 50%)"
+  },
+  {
+    id: "erlang",
+    label: "erlang",
+    value: 451,
+    color: "hsl(193, 70%, 50%)"
   }
 ];
